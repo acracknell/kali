@@ -1,0 +1,6 @@
+changing to a 192.x ip
+checking if anyone is listening on port 5555
+
+
+read into more:
+https://stackoverflow.com/questions/19246103/socket-errorerrno-99-cannot-assign-requested-address-and-namespace-in-python
